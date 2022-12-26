@@ -1,0 +1,23 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Auto": "Subsystem",
+      "/LiveWindow/Climber": "Subsystem",
+      "/LiveWindow/Gyro": "Subsystem",
+      "/LiveWindow/Shooter": "Subsystem",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/Scheduler": "Scheduler",
+      "/LiveWindow/colourWheel": "Subsystem",
+      "/LiveWindow/driveTrain": "Subsystem",
+      "/LiveWindow/intake": "Subsystem",
+      "/LiveWindow/limelight": "Subsystem",
+      "/LiveWindow/tower": "Subsystem"
+    }
+  },
+  "NetworkTables": {
+    "SmartDashboard": {
+      "open": true
+    }
+  }
+}
